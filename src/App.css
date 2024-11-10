@@ -1,0 +1,26 @@
+
+
+.row{
+  display: flex;
+}
+
+.normal{
+  border: 1px solid;
+  width: 45px;
+  height: 35px;
+}
+
+.snakeBody{
+  background-color: lightgreen;
+  border: 1px solid;
+  width: 45px;
+  height: 35px;
+}
+
+.apple{
+  background-color: red;
+  border: 1px solid;
+  width: 45px;
+  height: 35px;
+}
+
